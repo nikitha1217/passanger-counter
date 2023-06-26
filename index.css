@@ -1,0 +1,45 @@
+body {
+    font-size: 50px;
+    background-image: url("pexels-jéshoots-253647.jpg");
+    background-size: cover;
+    font-family: Roboto;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    font-size: 70px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 80px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    border: 10px double lightblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+
+#increment-btn {
+    background: darkred;
+}
+
+#save-btn {
+    background: darkgreen;
+}
+#decrement-btn
+{
+    background: blue;
+}
+
